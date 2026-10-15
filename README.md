@@ -1,7 +1,6 @@
 # Mini Lab: Unit Testing Exceptions with JUnit 5
 
 **Topic:** Unit testing · Runtime exceptions · Boundary values
-**Estimated time:** 45–60 minutes
 **Tools:** Java 17+, Maven, JUnit 5 (any IDE: IntelliJ IDEA, VS Code, Eclipse)
 
 ---
